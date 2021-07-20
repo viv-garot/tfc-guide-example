@@ -6,3 +6,5 @@ output "instance_arn" {
   value = aws_instance.ubuntu.arn
 }
 
+output "hello" {
+  value = "hello"
