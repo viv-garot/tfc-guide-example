@@ -8,3 +8,4 @@ output "instance_arn" {
 
 output "hello" {
   value = "hello"
+}
